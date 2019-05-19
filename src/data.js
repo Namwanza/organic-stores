@@ -6,96 +6,96 @@ https://www.iconfinder.com/Makoto_msk */
 export const storeProducts = [
   {
     id: 1,
-    title: "Google Pixel - Black",
+    title: "PetGuard",
     img: "img/product-1.png",
     price: 10,
-    company: "GOOGLE",
+    company: "Pet Food and Pet Products",
     info:
-      "Lorem ipsum dolor amet offal butcher quinoa sustainable gastropub, echo park actually green juice sriracha paleo. Brooklyn sriracha semiotics, DIY coloring book mixtape craft beer sartorial hella blue bottle. Tote bag wolf authentic try-hard put a bird on it mumblecore. Unicorn lumbersexual master cleanse blog hella VHS, vaporware sartorial church-key cardigan single-origin coffee lo-fi organic asymmetrical. Taxidermy semiotics celiac stumptown scenester normcore, ethical helvetica photo booth gentrify.",
+      "Organic pet food requirements, composition-wise, is similar to requirements for livestock, while label claims match the requirements for human food.",
     inCart: false,
     count: 0,
     total: 0
   },
   {
     id: 2,
-    title: "Samsung S7",
+    title: "Bubble & Bee Organic",
     img: "img/product-2.png",
     price: 16,
-    company: "SAMSUNG",
+    company: "Pet Food and Pet Products",
     info:
-      "Lorem ipsum dolor amet offal butcher quinoa sustainable gastropub, echo park actually green juice sriracha paleo. Brooklyn sriracha semiotics, DIY coloring book mixtape craft beer sartorial hella blue bottle. Tote bag wolf authentic try-hard put a bird on it mumblecore. Unicorn lumbersexual master cleanse blog hella VHS, vaporware sartorial church-key cardigan single-origin coffee lo-fi organic asymmetrical. Taxidermy semiotics celiac stumptown scenester normcore, ethical helvetica photo booth gentrify.",
+      "Organic pet food requirements, composition-wise, is similar to requirements for livestock, while label claims match the requirements for human food.",
     inCart: false,
     count: 0,
     total: 0
   },
   {
     id: 3,
-    title: "HTC 10 - Black",
+    title: "Intelligent Nutrients ",
     img: "img/product-3.png",
     price: 8,
-    company: "htc",
+    company: "Seeds and Gardening Supplies",
     info:
-      "Lorem ipsum dolor amet offal butcher quinoa sustainable gastropub, echo park actually green juice sriracha paleo. Brooklyn sriracha semiotics, DIY coloring book mixtape craft beer sartorial hella blue bottle. Tote bag wolf authentic try-hard put a bird on it mumblecore. Unicorn lumbersexual master cleanse blog hella VHS, vaporware sartorial church-key cardigan single-origin coffee lo-fi organic asymmetrical. Taxidermy semiotics celiac stumptown scenester normcore, ethical helvetica photo booth gentrify.",
+      "Organic pet food requirements, composition-wise, is similar to requirements for livestock, while label claims match the requirements for human food.",
     inCart: false,
     count: 0,
     total: 0
   },
   {
     id: 4,
-    title: "HTC 10 - White",
+    title: "Juice Beauty",
     img: "img/product-4.png",
     price: 18,
-    company: "htc",
+    company: "Pet Food and Pet Products",
     info:
-      "Lorem ipsum dolor amet offal butcher quinoa sustainable gastropub, echo park actually green juice sriracha paleo. Brooklyn sriracha semiotics, DIY coloring book mixtape craft beer sartorial hella blue bottle. Tote bag wolf authentic try-hard put a bird on it mumblecore. Unicorn lumbersexual master cleanse blog hella VHS, vaporware sartorial church-key cardigan single-origin coffee lo-fi organic asymmetrical. Taxidermy semiotics celiac stumptown scenester normcore, ethical helvetica photo booth gentrify.",
+     "Organic pet food requirements, composition-wise, is similar to requirements for livestock, while label claims match the requirements for human food.",
     inCart: false,
     count: 0,
     total: 0
   },
   {
     id: 5,
-    title: "HTC Desire 626s",
+    title: "Organic pet products",
     img: "img/product-5.png",
     price: 24,
-    company: "htc",
+    company: "Organic Bouquet",
     info:
-      "Lorem ipsum dolor amet offal butcher quinoa sustainable gastropub, echo park actually green juice sriracha paleo. Brooklyn sriracha semiotics, DIY coloring book mixtape craft beer sartorial hella blue bottle. Tote bag wolf authentic try-hard put a bird on it mumblecore. Unicorn lumbersexual master cleanse blog hella VHS, vaporware sartorial church-key cardigan single-origin coffee lo-fi organic asymmetrical. Taxidermy semiotics celiac stumptown scenester normcore, ethical helvetica photo booth gentrify.",
+      "Organic pet food requirements, composition-wise, is similar to requirements for livestock, while label claims match the requirements for human food.",
     inCart: false,
     count: 0,
     total: 0
   },
   {
     id: 6,
-    title: "Vintage Iphone",
+    title: "California Organic Flowers ",
     img: "img/product-6.png",
     price: 17,
-    company: "apple",
+    company: "Restaurants and Other Foodservice Operations",
     info:
-      "Lorem ipsum dolor amet offal butcher quinoa sustainable gastropub, echo park actually green juice sriracha paleo. Brooklyn sriracha semiotics, DIY coloring book mixtape craft beer sartorial hella blue bottle. Tote bag wolf authentic try-hard put a bird on it mumblecore. Unicorn lumbersexual master cleanse blog hella VHS, vaporware sartorial church-key cardigan single-origin coffee lo-fi organic asymmetrical. Taxidermy semiotics celiac stumptown scenester normcore, ethical helvetica photo booth gentrify.",
+      "Organic pet food requirements, composition-wise, is similar to requirements for livestock, while label claims match the requirements for human food.",
     inCart: false,
     count: 0,
     total: 0
   },
   {
     id: 7,
-    title: "Iphone 7",
+    title: "Dandelion",
     img: "img/product-7.png",
     price: 30,
-    company: "apple",
+    company: "Food and Beverages",
     info:
-      "Lorem ipsum dolor amet offal butcher quinoa sustainable gastropub, echo park actually green juice sriracha paleo. Brooklyn sriracha semiotics, DIY coloring book mixtape craft beer sartorial hella blue bottle. Tote bag wolf authentic try-hard put a bird on it mumblecore. Unicorn lumbersexual master cleanse blog hella VHS, vaporware sartorial church-key cardigan single-origin coffee lo-fi organic asymmetrical. Taxidermy semiotics celiac stumptown scenester normcore, ethical helvetica photo booth gentrify.",
+      "Organic pet food requirements, composition-wise, is similar to requirements for livestock, while label claims match the requirements for human food.",
     inCart: false,
     count: 0,
     total: 0
   },
   {
     id: 8,
-    title: "Smashed Iphone",
+    title: "Vapour",
     img: "img/product-8.png",
     price: 2,
-    company: "apple",
+    company: "Cosmetics",
     info:
-      "Lorem ipsum dolor amet offal butcher quinoa sustainable gastropub, echo park actually green juice sriracha paleo. Brooklyn sriracha semiotics, DIY coloring book mixtape craft beer sartorial hella blue bottle. Tote bag wolf authentic try-hard put a bird on it mumblecore. Unicorn lumbersexual master cleanse blog hella VHS, vaporware sartorial church-key cardigan single-origin coffee lo-fi organic asymmetrical. Taxidermy semiotics celiac stumptown scenester normcore, ethical helvetica photo booth gentrify.",
+      "Organic pet food requirements, composition-wise, is similar to requirements for livestock, while label claims match the requirements for human food.",
     inCart: false,
     count: 0,
     total: 0
@@ -109,7 +109,7 @@ export const detailProduct = {
   price: 10,
   company: "google",
   info:
-    "Lorem ipsum dolor amet offal butcher quinoa sustainable gastropub, echo park actually green juice sriracha paleo. Brooklyn sriracha semiotics, DIY coloring book mixtape craft beer sartorial hella blue bottle. Tote bag wolf authentic try-hard put a bird on it mumblecore. Unicorn lumbersexual master cleanse blog hella VHS, vaporware sartorial church-key cardigan single-origin coffee lo-fi organic asymmetrical. Taxidermy semiotics celiac stumptown scenester normcore, ethical helvetica photo booth gentrify.",
+    "Organic pet food requirements, composition-wise, is similar to requirements for livestock, while label claims match the requirements for human food.",
   inCart: false,
   count: 0,
   total: 0
